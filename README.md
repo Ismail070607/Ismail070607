@@ -1,4 +1,8 @@
-## Hi there 👋
+## My github profile
+### i am currently studying masters oin software engineering at leedsbeckettt university
+### this profile contains all the programs that i will and have created
+### The libary gives information about coding and programming
+### The logbook is used to record notes from lectures
 
 <!--
 **Ismail070607/Ismail070607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
